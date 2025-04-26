@@ -13,7 +13,7 @@ Si no tienes Git instalado, puedes descargarlo e instalarlo desde (https://git-s
 
 Abre la terminal (o Git Bash en Windows) y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
 
-    git clone https://github.com/tu_usuario/pandas_df_tlp3_juan_quiroga.git
+    git clone https://github.com/juanq348/pandas_df_tlp3_juan_quiroga.git
 
 ## 3. Crear un entorno virtual 
 Es recomendable crear un entorno virtual para que no tengas problemas con otras librerias.
